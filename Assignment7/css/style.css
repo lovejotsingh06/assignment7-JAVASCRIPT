@@ -1,0 +1,25 @@
+#london-wrapper, #windsor-wrapper{
+    display: none;
+    height: 5000px;
+}
+
+.thumbnail-anchor img{
+    width:80px;
+    height: 45px;
+}
+.thumbnail-anchor img {
+    width: 800px;
+    height: 450px;
+    object-fit: cover;
+}
+  
+
+#photo-viewer .photo-box {
+    width: 800%;
+    height: 450%;
+}
+img {
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 7%;
+    
+}
